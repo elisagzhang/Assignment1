@@ -24,17 +24,30 @@ This the main website for student health and wellness at UCLA. The website provi
 - the way information is provided is inconsistent because sometimes it is an image with colors and words, and other times it is a big block of text (2)
 - font sizes for sister pages inconsistent (1)
 - method of emphasizing information inconsistent and confusing, could be red, bold, blue, larger font, etc (2)
+- there are two different ways to log out of the portal on the same page (1)
 
 ## Error Prevention
-- 
+- cannot check for correct document upload, it is possible to upload a completely unrelated image/document (2)
 
-## Recognition Rather than Recall
+        ## Recognition Rather than Recall
+- provides
 
-## Flexibility and efficiency of use
+        ## Flexibility and efficiency of use
+  
+## Aesthetic and Minimalist Design
+- each page has a lot of block text that is very close together, makes the page very busy and confusing, would be better if there was less text or if there was more space between the text (2)
+- a lot of notices and unnecessary graphics (1)
+- in general, everything on the page just seems very close together and it seems like they were trying to cram as much information into one page. this makes me feel very anxious, which isn't what I would want to feel when I am trying to find health information and health care (2)
+- there is a roll down tab on the top of the portal but the only option is to log out, seems like a waste and unnecessary (1)
 
 ## Help users recognize, diagnose, and recover from errors
+- provides error page for bad search terms
+- 
 
 ## Help and documentation
-
+- the main site is essentially one big help page, but it doesn't feel streamlined and is hard to nagivate (2)
+- there is a search bar and kind of a FAQ 
+- there is no help page in the portal. navigating the portal can require information from the website, which can be hard to remember (2)
 
 # *overall evaluation of website*
+The website and portal provide all the necessary resources to students, however, it is extremely hard to navigate and littered with dense blocks of text. The portal is very simple, but it requires prior knowledge which can be hard to remember. For a website that is extremely important to the students of UCLA, the confusing and frustrating design can be very offputting and prevent students from seeking necessary medical help and support.
