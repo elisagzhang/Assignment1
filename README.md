@@ -8,7 +8,7 @@
 
 [View the UCLA Student Health Website](http://www.studenthealth.ucla.edu/default.aspx)
 
-*Login to view Patient Portal
+*Login to view Patient Portal*
 
 ## Visibility of System Status
 
