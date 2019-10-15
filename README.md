@@ -1,6 +1,6 @@
 # UCLA Student Health
-##### Elisa Zhang
-##### DH 150: User Experience and Design
+Elisa Zhang
+DH 150: User Experience and Design
 
 
 
