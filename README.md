@@ -6,7 +6,7 @@
 
 ![Screen Shot 2019-10-15 at 10 37 51 AM](https://user-images.githubusercontent.com/56327279/66856743-b8423880-ef3a-11e9-878d-5fa2ff23898a.png)
 
-[View the UCLA Student Health Website](http://www.studenthealth.ucla.edu/default.aspx) *Login to view Patient Portal*
+[View the UCLA Student Health Website](http://www.studenthealth.ucla.edu/default.aspx) *(Login to view Patient Portal)*
 
 ## Visibility of System Status
 
