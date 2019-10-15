@@ -5,7 +5,7 @@ This the main website for student health and wellness at UCLA. The website provi
 ![Screen Shot 2019-10-15 at 10 37 51 AM](https://user-images.githubusercontent.com/56327279/66856743-b8423880-ef3a-11e9-878d-5fa2ff23898a.png)
 
 [View the UCLA Student Health Website](http://www.studenthealth.ucla.edu/default.aspx) *(Login to view Patient Portal)*
-
+# *Evaluation of 10 Heuristics*
 ## Visibility of System Status
 - system provides loading feedback when uploading files into the portal
 - top bar and side bar buttons change colors/underlined when hover overed
@@ -29,10 +29,11 @@ This the main website for student health and wellness at UCLA. The website provi
 ## Error Prevention
 - cannot check for correct document upload, it is possible to upload a completely unrelated image/document (2)
 
-        ## Recognition Rather than Recall
-- provides
+## Recognition Rather than Recall
+- adding real time suggestions to the search bar would aid in helping students find answers easier (1)
 
-        ## Flexibility and efficiency of use
+## Flexibility and efficiency of use
+- the page provides a lot of information, but not everyone needs all this information. it would be better if the page was more user friendly to people who don't want to see a lot, or don't know how to navigate through the dense amount of information (2)
   
 ## Aesthetic and Minimalist Design
 - each page has a lot of block text that is very close together, makes the page very busy and confusing, would be better if there was less text or if there was more space between the text (2)
@@ -42,12 +43,12 @@ This the main website for student health and wellness at UCLA. The website provi
 
 ## Help users recognize, diagnose, and recover from errors
 - provides error page for bad search terms
-- 
+- one thing I found extremely frustrating was that the portal would automatically sign you out after a few moments of inactivity. I would keep having to log back in. I think a warning page would be helpful (2)
 
 ## Help and documentation
 - the main site is essentially one big help page, but it doesn't feel streamlined and is hard to nagivate (2)
 - there is a search bar and kind of a FAQ 
 - there is no help page in the portal. navigating the portal can require information from the website, which can be hard to remember (2)
 
-# *overall evaluation of website*
+# *Overall Evaluation of Website*
 The website and portal provide all the necessary resources to students, however, it is extremely hard to navigate and littered with dense blocks of text. The portal is very simple, but it requires prior knowledge which can be hard to remember. For a website that is extremely important to the students of UCLA, the confusing and frustrating design can be very offputting and prevent students from seeking necessary medical help and support.
