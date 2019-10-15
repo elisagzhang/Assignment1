@@ -1,8 +1,3 @@
-# UCLA Student Health
-Elisa Zhang
-
-DH 150: User Experience and Design
-
 # *brief info about website*
 
 # *overall evaluation of website*
