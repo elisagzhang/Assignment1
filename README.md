@@ -1,3 +1,7 @@
+### Important: The website that I had originally evaluated before changed their design after I can completed my analysis and I felt that it would be better to choose a different website to do my project on. [Here is the link to my updated heuristic analysis.](www.google.com)
+
+---
+
 This the main website for student health and wellness at UCLA. The website provides news, resources, and services pertaining to health and healthcare for students at UCLA. The website also leads to the Patient Portal, which requires students to login in order to make appointments and view/update their personal health information.
 
 ![Screen Shot 2019-10-15 at 10 37 30 AM](https://user-images.githubusercontent.com/56327279/66856613-76b18d80-ef3a-11e9-9d3a-8dac400a6212.png)
