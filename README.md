@@ -1,4 +1,4 @@
-### Important: The website that I had originally evaluated before changed their design after I can completed my analysis and I felt that it would be better to choose a different website to do my project on. [Here is the link to my updated heuristic analysis.](www.google.com)
+### Important: The website that I had originally evaluated before changed their design after I can completed my analysis and I felt that it would be better to choose a different website to do my project on. [Here is the link to my updated heuristic analysis.](https://elisagzhang.github.io/Assignment1-UPDATED/)
 
 ---
 
